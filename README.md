@@ -24,6 +24,9 @@ This is a simple GUI-based **Number Guessing Game** built using **Java Swing**.
 ![Screenshot 1](1.png)
 ![Screenshot 2](2.png)
 ![Screenshot 3](3.png)
+![Screenshot 4](4.png)
+![Screenshot 5](5.png)
+
 
 ## 📁 File
 
